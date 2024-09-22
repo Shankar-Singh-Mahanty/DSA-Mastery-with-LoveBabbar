@@ -23,3 +23,8 @@ int main(){
     
     return 0;
 }
+
+/*
+Time Complexity = O(n)
+Auxiliary Space Complexity: O(n) for non in-place, O(log n) for in-place (due to recursion stack).
+*/
